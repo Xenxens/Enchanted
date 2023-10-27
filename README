@@ -1,0 +1,11 @@
+       NOTE: THIS CODE IS FOR JAVA CODE ONLY 
+
+
+If you cant download the enchanted.wav here are the steps in extracting the sounds
+
+First is to download the Taylors Swift Enchanted song ( https://youtu.be/igIfiqqVHtA?si=7vVnlC7FZ9rg37rk )
+Second is Cut the song to 3:55 to 4:35 
+third take that 3:55 to 4:35 audio and convert it into .wav file
+after that make a folder in your documents and put that together with the App.java.
+and lastly open VS Code and run the file 
+
